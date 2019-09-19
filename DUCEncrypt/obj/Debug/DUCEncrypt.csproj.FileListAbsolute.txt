@@ -1,0 +1,8 @@
+D:\Test\DUCEncrypt\DUCEncrypt\bin\Debug\DUCEncrypt.exe.config
+D:\Test\DUCEncrypt\DUCEncrypt\bin\Debug\DUCEncrypt.exe
+D:\Test\DUCEncrypt\DUCEncrypt\bin\Debug\DUCEncrypt.pdb
+D:\Test\DUCEncrypt\DUCEncrypt\bin\Debug\BouncyCastle.Crypto.dll
+D:\Test\DUCEncrypt\DUCEncrypt\bin\Debug\DUC.Utilities.CryptoEngine.dll
+D:\Test\DUCEncrypt\DUCEncrypt\obj\Debug\DUCEncrypt.csprojResolveAssemblyReference.cache
+D:\Test\DUCEncrypt\DUCEncrypt\obj\Debug\DUCEncrypt.exe
+D:\Test\DUCEncrypt\DUCEncrypt\obj\Debug\DUCEncrypt.pdb
